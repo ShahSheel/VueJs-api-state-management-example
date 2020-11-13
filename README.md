@@ -8,4 +8,4 @@ Please note this is not production-ready code as it has been extracted from a Do
 * All necessary information is loaded from a /GET all API call which is loaded as a state. The state is then changed or updated on each GET/POST request.
 * Global variables have been defined under `globals.js` to help with readability and reduce time of having to cut and paste everywhere.
 * Uses KISS principle 
-* 
+
