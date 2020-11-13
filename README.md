@@ -9,3 +9,5 @@ Please note this is not production-ready code as it has been extracted from a Do
 * Global variables have been defined under `globals.js` to help with readability and reduce time of having to cut and paste everywhere.
 * Uses KISS principle 
 
+Preview the project <a href=https://gfycat.com/impishsolidfunnelweaverspider> here </a>
+![Alt Text](https://media.giphy.com/media/AoNccQV2h4Vkr7tiBH/giphy.gif)
